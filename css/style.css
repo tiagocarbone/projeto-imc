@@ -81,12 +81,15 @@ form button:active {
   background:rgba(17, 86, 102, 0.582);
 }
 
-
+#resultado  {
+  width: 100%;
+  text-align: center;
+}
 
 .paragrafoResultado {
   background-color: rgba(12, 209, 45, 0.699);
   padding: 10px 20px;
-  width: 153.5%; 
+  width: 100%; 
   
   
   
@@ -95,7 +98,7 @@ form button:active {
 .bad {
   background-color: rgba(182, 73, 53, 0.767);
   padding: 10px 20px;
-  width: 358.5%; 
+  
   
 
 }
